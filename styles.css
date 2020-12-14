@@ -1,0 +1,44 @@
+body {
+
+background-color: #ad6989;
+color: white;
+font-size: 30px; 
+}
+
+.myDiv {
+  background-color: #562349;    
+  text-align: center;
+    position: fixed;
+    height: 330px;
+    width: 50%;
+    top: 40%;
+    left: 20%;
+    margin-top: -90px;
+    margin-left: 30px;
+    padding: 25px;
+    font-family: "Georgia"; 
+    line-height: 1.6; 
+}
+ 
+#heading {
+    color: white;
+    margin-left: 330px;
+    font-family: "Garamond"; 
+    font-size: 50px;
+}
+
+button {
+    height: 55px;
+    width: 160px;
+    font-size: 20px;
+    background-color: lightyellow;
+    border: 4px double;
+    font-family:  "Regular 400";
+}
+
+button:hover {
+       background-color: #c3aed6;
+       color: black;
+
+}
+
