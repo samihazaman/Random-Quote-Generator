@@ -23,9 +23,5 @@ var random = Math.floor(Math.random() * quotes.length);
 $(".quotes").text(quotes[random] + ""); 
 });
 
-
-console.log (quotes);
-console.log(quotes[0]);
-
 });
 
