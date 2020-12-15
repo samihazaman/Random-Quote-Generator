@@ -1,4 +1,6 @@
 
+$( document ).ready(function() {
+
 let quotes = ["The darkest hour is just before the dawn.",     
               
 "Enjoy the little things in life, for one day you may look back and realize they were the big things.",
@@ -25,5 +27,5 @@ $(".quotes").text(quotes[random] + "");
 console.log (quotes);
 console.log(quotes[0]);
 
-
+});
 
