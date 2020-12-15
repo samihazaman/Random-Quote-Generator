@@ -1,4 +1,3 @@
-$( document ).ready(function() {
 
 let quotes = ["The darkest hour is just before the dawn.",     
               
@@ -27,5 +26,4 @@ console.log (quotes);
 console.log(quotes[0]);
 
 
-});
 
