@@ -16,7 +16,7 @@ let quotes = ["The darkest hour is just before the dawn.",
 "When you reach the end of your rope, tie a knot in it and hang on."];
 
 
-$(".Generate").click(function() {
+$("button").click(function() {
 
 var random = Math.floor(Math.random() * quotes.length); 
     
